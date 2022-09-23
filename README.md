@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... Of course, I am studying Java and Spring, and I am also studying JavaScript and mysql.
 - 💞️ I want to create my own domain.
 - 📫 How to reach me ... bizifntsh@gmail.com
-- ✨ Thx
 
 <!---
 ifntsh/ifntsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
